@@ -1,5 +1,5 @@
 # Personal Website 
-https://karna0005.github.io/My-Resume/
+https://karna0005.github.io/My-Portfolio/
 
 Welcome to the repository of my personal website. This website serves as a digital portfolio showcasing my personal information, projects, skills, and contact information. It's built with a combination of HTML, CSS, PHP, and JavaScript to create a responsive and interactive experience.
 
