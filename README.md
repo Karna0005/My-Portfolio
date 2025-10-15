@@ -46,6 +46,4 @@ Your Name - [@karunakarviswas](https://twitter.com/karunakarviswas)
 
 Project Link: [https://github.com/Karna0005/My-Resume](https://github.com/Karna0005/My-Resume)
 
----
 
-Feel free to adjust the content to match your project's specifics, such as adding more details about how to contribute, or if there are any additional steps needed to get the project running. Remember, a well-documented README is crucial for engaging the community and encouraging collaboration.
