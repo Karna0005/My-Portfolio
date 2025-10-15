@@ -21,13 +21,6 @@ Welcome to the repository of my personal website. This website serves as a digit
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-- A web server with PHP support (e.g., Apache, Nginx)
-- PHP 
-- A modern web browser
-
-
 
 ## Usage
 
