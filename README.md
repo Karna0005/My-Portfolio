@@ -13,8 +13,7 @@ Welcome to the repository of my personal website. This website serves as a digit
 ## Technologies Used
 
 - HTML5
-- CSS3
-- PHP 
+- CSS3 
 - JavaScript
 
 ## Getting Started
